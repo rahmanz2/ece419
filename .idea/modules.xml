@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m1/BasicStorageServer-stub/BasicStorageServer-stub.iml" filepath="$PROJECT_DIR$/m1/BasicStorageServer-stub/BasicStorageServer-stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2/ScalableStorageService/ScalableStorageService.iml" filepath="$PROJECT_DIR$/m2/ScalableStorageService/ScalableStorageService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1/echoClient/echoClient.iml" filepath="$PROJECT_DIR$/m1/echoClient/echoClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1/echoClient/echoClient/echoClient1.iml" filepath="$PROJECT_DIR$/m1/echoClient/echoClient/echoClient1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1/echoServer/echoServer.iml" filepath="$PROJECT_DIR$/m1/echoServer/echoServer.iml" />
+    </modules>
+  </component>
+</project>

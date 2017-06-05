@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BasicStorageServer-stub">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/m1/BasicStorageServer-stub/ms1-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/m1/BasicStorageServer-stub/ms1-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
